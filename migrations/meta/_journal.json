@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700981747080,
+      "tag": "0000_rich_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700986417025,
+      "tag": "0001_motionless_dreaming_celestial",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701012699815,
+      "tag": "0002_cuddly_lockheed",
+      "breakpoints": true
+    }
+  ]
+}
